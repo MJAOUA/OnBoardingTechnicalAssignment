@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.task</groupId>
-	<artifactId>codetest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>codetest</name>
+	<artifactId>OnBoardingAssignment</artifactId>
+	<version>0.0.1</version>
+	<name>OnBoardingAssignment</name>
 	<description>Backend Test Scenario: Spring Boot API Coding Test - Credit Card Transactions</description>
 	<properties>
 		<java.version>17</java.version>
